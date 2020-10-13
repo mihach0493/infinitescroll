@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: red;
+}
+#preloader {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
